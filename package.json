@@ -1,0 +1,11 @@
+{
+  "name": "76",
+  "version": "1.0.0",
+  "description": "76 * 76 * 76 * 76 ...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Masayuki Sunahara <tamanishi.gmail.com>",
+  "license": "MIT"
+}
