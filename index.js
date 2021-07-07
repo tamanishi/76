@@ -6,9 +6,9 @@ const sleep = async (ms) => {
 
 const main = async () => {
     while (true) {
-        await sleep(1000);
         console.log(String(result));
         result = result * BigInt(76);
+        await sleep(1000);
     }
 }
 
